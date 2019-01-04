@@ -1,0 +1,14 @@
+spis tresci - 
+part
+chapter
+
+article
+section
+subsection
+subsubsection
+
+paragraph
+subparagraph
+
+documentclass: book/article
+Table of Contenst
